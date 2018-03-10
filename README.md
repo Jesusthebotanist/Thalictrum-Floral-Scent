@@ -6,5 +6,5 @@ Authors: Theresa Wang, Marie Clifford, Jesús Martínez-Gómez, Jens Johnson, Je
 
 ## Content of 'ThalictrumScent' folder
 - Relevant functions from 'Fathom Toolbox for Matlab' 
-- Scent Data: Data.csv (see 'ThalictrumScentScript' for data description)
+- Scent Data: data.csv (see 'ThalictrumScentScript' for data description)
 - Matlab Script: ThalictrumScentScript.m 
