@@ -2,6 +2,8 @@
 
 This repository accompanies the manuscript, 'Scent Matters: Differential contribution of scent to insect response in flowers with insect vs. wind pollination traits.' 
 
+https://academic.oup.com/aob/article/123/2/289/5056502
+
 All material necessary to replicate Non-multidimensioanl Scaling (NMDS) Analysis, ANalysis Of SIMilarity (ANOSIM), test for Phylogenetic signal and ancestral state reconstruction of EAG from the manuscript are in this folder. 
 - NMDS and ANOSIM were done in Matlab.
 - Test for Phylogenetic Signal and Ancestral State Reconstruction of EAG were done in R. 
